@@ -1,0 +1,135 @@
+body {
+    background-color: dimgray;
+    color: white;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color:cadetblue;
+    text-align: center;
+    padding: 2rem 1rem 1rem 1rem;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+}
+
+h2 {
+    background-color: black;
+    text-align: lef;
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+main {
+    background-color: aqua;
+    max-width: 900px;
+    margin: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(75, 53, 42, 0.12);
+    padding: 8px;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border: 2px solid blue;
+    border-radius: 8px;
+    background-color: azure;
+}
+
+p {
+    border: 2px solid black;
+    border-radius: 6px;
+    color: black;
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+    font-size: 1rem;
+}
+
+.pixel {
+    font-size: 15px;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.centim {
+    font-size: 1cm;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.milim {
+    font-size: 10mm;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.inches {
+    font-size: 0,5in;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.punto {
+    font-size: 10pt;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.picas {
+    font-size: 2pc;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+/* Medidas Relativas */
+.em {
+    font-size: 1.5em;
+    padding: 1em;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.rem {
+    font-size: 1.5rem;
+    padding: 1rem;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.vw {
+    width: 40vw;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.vh {
+    height: 10vh;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.percent {
+    width: 80%;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.ex {
+    font-size: 3ex;
+    background-color: cadetblue;
+    border: 2px solid;
+}
+
+.ch {
+    width: 30ch;
+    background-color: cadetblue;
+    border: 2px solid;
+}

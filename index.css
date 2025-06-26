@@ -1,0 +1,67 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #169976;
+}
+
+.indi1{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+div{
+    background-color: darkkhaki;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.uno{
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #169976;
+}
+
+.dos{
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #169976;
+}
+
+.tres{
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #169976;
+}
+
+.cuatro{
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #169976;
+}
+
+.cinco{
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #169976;
+}
+
+footer{
+    text-align: center;
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
